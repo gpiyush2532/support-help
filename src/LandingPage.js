@@ -13,7 +13,7 @@ return (
 </nav>
 </header>
 <div className="landing-page-search">
-<h2 className="landing-page-search-title">Let me help you!</h2>
+<h1 className="landing-page-search-title">Let me help you!</h1>
 <div className='searchdiv'>
 {/* <i class="fa fa-user icon"></i> */}
             {/* <input class="input-field" type="text"> */}
